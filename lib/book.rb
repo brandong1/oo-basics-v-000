@@ -8,11 +8,11 @@ class Book
     @title
   end
 
-  def author=(author)
+  def author=(author) #setter for author
     @author
   end
   
-  def author
+  def author #getter for author 
     @author
   end
 
